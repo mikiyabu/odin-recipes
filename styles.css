@@ -1,0 +1,19 @@
+* {
+    border: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+a {
+    font-size: 30px;
+    color: black;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    display: block;
+}
